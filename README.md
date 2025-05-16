@@ -8,7 +8,7 @@ I specialize in building backend infrastructure for finance, accounting, and tre
 
 ## 🧠 What I Do
 
-I’m not just doing accounting — I’m building financial operating systems from the ground up.
+I don't just manage numbers - I architect financial operations that can scale.
 
 - 💼 **Manage fund accounting across 50+ legal entities and multiple bank platforms**, supporting private equity operations in a high-volume environment
 - 🏗 **Designed an AP + treasury infrastructure from scratch** using Access, Excel, and Python to manage invoice approvals, fund allocations, vendor disbursements, and 1099/W-9 audit compliance
@@ -82,7 +82,7 @@ I'm seeking roles where I can combine finance knowledge with system design and a
 
 ---
 
-## 🛠 Tools & Stack
+## 🛠 Stack
 
 | Category        | Tools                                                             |
 |----------------|-------------------------------------------------------------------|
