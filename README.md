@@ -1,102 +1,109 @@
-# 👋 Hi, I'm Christian Mukala
+# Hi, I'm Christian Mukala
 
-**Financial Systems Architect** | **Automation-First Accountant** | Python • Access • Excel • Power BI
+**Operations Analyst | CPA Candidate** | Financial Systems, Marketing Analytics, Process Automation
 
-I specialize in building backend infrastructure for finance, accounting, and treasury teams — especially where none exists. Whether it’s replacing spreadsheets, automating manual AP workflows, or building a lightweight ERP alternative in Microsoft Access, I deliver systems that save time, reduce risk, and scale.
+I bridge the gap between finance and technology. With hands-on accounting experience (fund accounting, AP/AR, GAAP compliance) and technical skills in SQL, Python, and data visualization, I build systems that automate manual workflows, improve reporting accuracy, and give teams real visibility into their numbers.
 
----
-
-## 🧠 What I Do
-
-I don't just manage numbers - I architect financial operations that can scale.
-
-- 💼 **Manage fund accounting across 50+ legal entities and multiple bank platforms**, supporting private equity operations in a high-volume environment
-- 🏗 **Designed an AP + treasury infrastructure from scratch** using Access, Excel, and Python to manage invoice approvals, fund allocations, vendor disbursements, and 1099/W-9 audit compliance
-- 🧠 Reverse-engineered finance ops in a firm with no ERP or automation and delivered **fully auditable, scalable workflows**
-- 📊 Created dashboards, reports, and reconciliation frameworks that support $330M+ in assets and monthly/quarterly closings
-- 🔁 Collaborated across fund admins, compliance, and execs — transforming broken manual processes into standardized flows with logic, not bloat
+Currently preparing for the CPA exam while building payment systems, financial databases, and analytics dashboards.
 
 ---
 
-## 🚀 Featured Projects
+## What I Do
 
-### 🔗 [Bank Statement Automation System](https://github.com/Christian-Mukala/Bank-Statement-Automation-System)  
-Python automation tool for reconciling multi-bank statement exports.  
-Converts Excel/PDF files into structured, rule-coded outputs — reducing manual reconciliation time by over **90%**.
+**Finance & Accounting**
+- Fund accounting across 50+ legal entities supporting $330M+ in assets under management
+- AP/AR operations, bank reconciliations, and month-end close processes
+- 1099/W-9 compliance tracking, vendor management, and audit support
+- Payment processing systems with transaction reconciliation and audit trails
 
-- Handles inconsistent file formats from 4+ financial institutions  
-- Applies rule-based logic for transaction classification  
-- Outputs audit-ready, reconciled statements  
-- Replaced a process that took **2 hours/day at the start of each month** with a system that now takes **~20 minutes total** (5 minutes per bank)  
-- Eliminated formatting errors, improved traceability, and freed up over **16+ hours/month**
-
-🧠 Tech: Python, pandas, openpyxl, OCR (future module)
-
----
-
-### 🔗 [Private Equity AP + Treasury Database](https://github.com/Christian-Mukala/Private-Equity-AP-Treasury-Database)  
-Microsoft Access database powering accounts payable, vendor management, fund allocation, and audit tracking for 50+ entities across multiple funds.
-
-- Full relational schema linking invoices, payments, vendors, and fund allocations  
-- Tracks **partial payments across multiple funds and vendors** with complete accuracy  
-- Supports invoice splits, approval flows, vendor-to-fund mappings, and custom audit reports  
-- Used actively for monthly closes, fund audits, payment forecasting, and compliance reviews
-
-#### 🧠 Fund Allocation Matrix Example
-
-This system allows precise tracking of complex payment allocations across multiple entities — one of the most challenging aspects of multi-fund financial operations:
-
-![Multi-Fund Allocation Matrix](./images/allocation-matrix.svg)
-
-**Business Impact:**  
-This allocation tracking eliminated manual reconciliation errors, supported multi-fund partial payments, and provided clear audit trails for expenses shared across entities.  
-Finance teams gained immediate visibility into how expenses were distributed, improving **month-end close accuracy by 40%** and reducing **vendor payment investigations from 5–6 hours/week to under 30 minutes**.
-
-🧠 Tech: Microsoft Access, VBA, SQL logic, structured forms
+**Analytics & Automation**
+- Dashboards tracking CAC, LTV, conversion rates, and revenue metrics in Power BI and Airtable
+- Attribution frameworks (UTM taxonomy, referral tracking) measuring ROI across channels
+- Python and SQL scripts automating reporting, reducing manual work by 50%+
+- Data pipelines connecting payment platforms, databases, and marketing systems
 
 ---
 
-## 💼 Professional Experience Highlights
+## Featured Projects
 
-- **Accountant – Arctaris Impact Investors**  
-  Built and managed multi-entity fund accounting workflows across 50+ legal entities and 4 banks. Led automation of AP and fund disbursement processes. Supported audits, 1099 compliance, and $330M in assets under management.
+### [Stripe Financial Integration](https://github.com/Christian-Mukala/stripe-financial-integration)
+End-to-end payment processing system with subscription billing, webhook reconciliation, and financial database sync.
 
-- **Financial Analyst – Elkus Manfredi Architects**  
-  Partnered directly with the CFO, Vice President, and accounting team to improve internal reporting, automate forecasting, and streamline financial strategy. Delivered Deltek-integrated dashboards and played a critical role in monthly close and executive presentations.
+- Processes one-time payments and 6-month recurring subscriptions
+- Every Stripe transaction reconciles to a matching database record
+- Built data transformation layer to fix silent sync failures causing missing financial records
+- Handles 3D Secure authentication, failed payment retries, and escalating notifications
 
-- **Billing & Operations Coordinator – Converse / Nike**  
-  Supported global AP operations for celebrity sponsorships and international designer relationships, including clients like Tyler, The Creator.  
-  Ensured smooth onboarding, invoice setup, and issue resolution across multi-currency environments (EUR/USD) — with a focus on fixing broken workflows post-Coupa rollout and acting as the bridge between Converse finance and international vendors.
-
----
-
-## 🧭 What I’m Looking For
-
-I'm seeking roles where I can combine finance knowledge with system design and automation — ideally in environments that value clarity, speed, and structured workflows.
-
-### Areas of interest:
-- 🔧 **Financial Operations & AP Automation**
-- 🏗 **ERP/Finance System Implementation**
-- 💻 **Tech-forward Accounting in SaaS, Fintech, or Public Finance**
-- 🧠 **Hybrid Finance / Data / Low-Code Ops Roles**
+**Tech:** Stripe API, PHP, React, Airtable, Docker, Mailchimp API
 
 ---
 
-## 🛠 Stack
+### [Bank Statement Automation System](https://github.com/Christian-Mukala/Bank-Statement-Automation-System)
+Python tool that transforms unstructured bank statements from multiple institutions into audit-ready, reconciled outputs.
 
-| Category        | Tools                                                             |
-|----------------|-------------------------------------------------------------------|
-| 🧮 Core         | Microsoft Access, Excel (Advanced), Power BI                     |
-| 💾 Database     | PostgreSQL, Access SQL, Airtable                                 |
-| 🔁 Automation   | Python (pandas, openpyxl), Power Automate, VBA                   |
-| 📈 ERP/Finance  | NetSuite, Deltek, Oracle EBS, Sage 300 CRE, Coupa, Aravo         |
-| 📊 Reporting    | Power BI, Excel dashboards, Pivot Tables                         |
-| 🔗 CRM/Support  | Salesforce, HubSpot                                              |
+- Handles inconsistent formats from 4+ banks
+- Rule-based transaction classification and validation
+- Reduced reconciliation time from 2 hours/day to 20 minutes
+- Freed up 16+ hours/month for higher-value work
+
+**Tech:** Python, pandas, openpyxl
 
 ---
 
-## 📫 Let’s Connect
+### [Private Equity AP + Treasury Database](https://github.com/Christian-Mukala/Private-Equity-AP-Treasury-Database)
+Access database managing accounts payable, vendor payments, and fund allocations for a PE firm with 50+ entities.
 
-- [LinkedIn](https://www.linkedin.com/in/Christian-mukala)  
-- 📧 Email: Christianxm3@gmail.com  
-- 📍 Based in Greater Boston | Open to hybrid or remote roles
+- Relational schema linking invoices, payments, vendors, and fund allocations
+- Tracks partial payments across multiple funds with full audit trails
+- 1099/W-9 compliance tracking and approval workflows
+- Improved month-end close accuracy by 40%
+
+**Tech:** Microsoft Access, VBA, SQL
+
+---
+
+## Professional Experience
+
+**Marketing Operations Strategist / Founder — Newteam FC** (2023 - Present)
+Built analytics dashboards tracking CAC, CPL, and customer lifetime value. Designed attribution frameworks and automated reporting with SQL/Python. Developed the payment infrastructure handling registrations and subscriptions.
+
+**Accountant — Arctaris Impact Investors** (2022 - Present)
+Fund accounting for $330M+ AUM across 7 funds. Optimized AP workflows and bank reconciliations, improving processing efficiency by 20%. Applied automation to streamline invoice processing while maintaining GAAP compliance.
+
+**Financial & Operations Support — Reed Hilderbrand** (2021 - 2022)
+Tracked project budgets in Deltek. Managed AR/AP processes and improved billing accuracy.
+
+**Global Marketing Billing Operations — Converse / Nike** (2019 - 2021)
+Led Coupa and Aravo implementation. Owned billing processes for global vendors. Supported forecasting including cash flow and balance sheet reviews.
+
+**Financial Analyst — Elkus Manfredi Architects** (2018 - 2019)
+Partnered with CFO on financial analytics, reporting automation, and dashboard development in Deltek.
+
+---
+
+## Education & Credentials
+
+**BA, Global Business Administration** — Regis College
+- Cum Laude, Dean's List all 4 years
+
+**CPA Candidate** — Exam anticipated Fall 2026
+
+---
+
+## Tech Stack
+
+| Category | Tools |
+|----------|-------|
+| Analytics | Power BI, Airtable, Excel (VBA), Salesforce |
+| Programming | SQL, Python, PostgreSQL, HTML, CSS |
+| Payments | Stripe API, Webhook Architecture |
+| Marketing | Mailchimp, Facebook Ads, SEMrush |
+| ERP & Finance | Deltek, NetSuite, Oracle EBS, Sage 300, Coupa, Aravo |
+
+---
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/Christian-mukala)
+- Email: Christianxm3@gmail.com
+- Based in Greater Boston | Open to hybrid or remote
