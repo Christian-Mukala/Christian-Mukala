@@ -79,18 +79,23 @@ Led Coupa and Aravo implementation. Owned billing processes for global vendors. 
 **Financial Analyst — Elkus Manfredi Architects** (2018 - 2019)
 Partnered with CFO on financial analytics, reporting automation, and dashboard development in Deltek.
 
+**Accounting & Business Leadership Program — PricewaterhouseCoopers (PwC)** (Summer 2011)
+University-based internship focused on accounting, auditing, and business leadership fundamentals. Completed workshops on financial analysis and professional communication. Collaborated on case studies simulating real-world client engagements.
+
 ---
 
 ## Education & Credentials
 
-**BA, Global Business Administration** — Regis College
+**BA, Global Business Administration** — Regis College (2012 - 2016)
 - Valedictorian, Cum Laude
 - Dean's List all 4 years
 - Academic Excellence Scholar Athlete (2015-2016)
 - New England Collegiate Conference All-Conference Second Team
 - NECC Academic All-Conference (2012-2013)
 
-**CPA Candidate** — Exam anticipated Fall 2026
+**Certifications**
+- CPA Candidate — Exam anticipated Fall 2026
+- Controller Academy Course — November 2025
 
 ---
 
