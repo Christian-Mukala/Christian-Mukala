@@ -67,7 +67,7 @@ Access database managing accounts payable, vendor payments, and fund allocations
 **Marketing Operations Strategist / Founder — Newteam FC** (2023 - Present)
 Built analytics dashboards tracking CAC, CPL, and customer lifetime value. Designed attribution frameworks and automated reporting with SQL/Python. Developed the payment infrastructure handling registrations and subscriptions.
 
-**Accountant — Arctaris Impact Investors** (2022 - Present)
+**Accountant — Arctaris Impact Investors** (2022 - September 2025)
 Fund accounting for $330M+ AUM across 7 funds. Optimized AP workflows and bank reconciliations, improving processing efficiency by 20%. Applied automation to streamline invoice processing while maintaining GAAP compliance.
 
 **Financial & Operations Support — Reed Hilderbrand** (2021 - 2022)
@@ -107,3 +107,4 @@ Partnered with CFO on financial analytics, reporting automation, and dashboard d
 - [LinkedIn](https://www.linkedin.com/in/Christian-mukala)
 - Email: Christianxm3@gmail.com
 - Based in Greater Boston | Open to hybrid or remote
+
