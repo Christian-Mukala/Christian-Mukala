@@ -87,11 +87,13 @@ University-based internship focused on accounting, auditing, and business leader
 ## Education & Credentials
 
 **BA, Global Business Administration** — Regis College (2012 - 2016)
-- Valedictorian, Cum Laude
+- Cum Laude
 - Dean's List all 4 years
 - Academic Excellence Scholar Athlete (2015-2016)
 - New England Collegiate Conference All-Conference Second Team
 - NECC Academic All-Conference (2012-2013)
+
+**High School Valedictorian** (2012)
 
 **Certifications**
 - CPA Candidate — Exam anticipated Fall 2026
