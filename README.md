@@ -84,7 +84,11 @@ Partnered with CFO on financial analytics, reporting automation, and dashboard d
 ## Education & Credentials
 
 **BA, Global Business Administration** — Regis College
-- Cum Laude, Dean's List all 4 years
+- Valedictorian, Cum Laude
+- Dean's List all 4 years
+- Academic Excellence Scholar Athlete (2015-2016)
+- New England Collegiate Conference All-Conference Second Team
+- NECC Academic All-Conference (2012-2013)
 
 **CPA Candidate** — Exam anticipated Fall 2026
 
